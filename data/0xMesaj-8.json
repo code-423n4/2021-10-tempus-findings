@@ -1,0 +1,9 @@
+{
+  "contest": "Tempus Finance contest",
+  "handle": "0xMesaj",
+  "address": "0xC54779aD18af826b94258338a406A88c17758948",
+  "risk": "2",
+  "title": "Manipulating updateInterestRate() in Tempus Pools to mint more Principal and Yield Tokens Than They Should",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tempus-findings/issues/8"
+}
