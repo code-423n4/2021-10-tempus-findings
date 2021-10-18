@@ -1,0 +1,9 @@
+{
+  "contest": "Tempus Finance contest",
+  "handle": "chenyu",
+  "address": "0x94e0c714FaD746AC9e220E1B9396771C1FA7A236",
+  "risk": "1",
+  "title": "PermanentlyOwnable does not prevent transferring ownership to a dead address.",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tempus-findings/issues/9"
+}
