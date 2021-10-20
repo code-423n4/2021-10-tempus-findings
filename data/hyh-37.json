@@ -1,0 +1,9 @@
+{
+  "contest": "Tempus Finance contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "0",
+  "title": "getAMMOrderedAmounts and _exitTempusAmmAndRedeem functions use explicit token comparison for ordering instead of relying on Balancer's PoolTokens",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tempus-findings/issues/37"
+}
